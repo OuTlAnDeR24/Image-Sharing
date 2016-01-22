@@ -25,6 +25,7 @@ local.properties
 # Android Studio Captures folder
 captures/
 
-/.idea/workspace.xml
-/.idea/libraries
+#/.idea/workspace.xml
+#/.idea/libraries
+/.idea/
 .DS_Store
